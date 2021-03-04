@@ -1,0 +1,11 @@
+.search-text {
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.search-bar {
+  margin-top: 100px;
+  margin-left: 280px;
+  text-align: match-parent;
+  font-family: 'Courier New', Courier, monospace;
+}
